@@ -1,4 +1,4 @@
 
 public class Student1 {
-    String author = "Kamil Warczak";
+	String author = "Kamil Warczak";
 }
